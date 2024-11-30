@@ -2,7 +2,7 @@ version: 2
 
 sources:
   - name: retail
-    database: 'airflow-dbt-soda-pipeline'
+    database: 'thematic-envoy-443217-t7'
 
     tables:
         - name: raw_invoices
