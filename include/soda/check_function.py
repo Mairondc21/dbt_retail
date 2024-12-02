@@ -21,4 +21,4 @@ def check(scan_name, checks_subpath=None, data_source='retail', project_root='in
     if result != 0:
         raise ValueError('Soda Scan failed')
 
-    return result
+    return result 
